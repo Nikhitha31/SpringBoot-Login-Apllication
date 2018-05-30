@@ -31,10 +31,5 @@ public String Registration(HttpServletRequest request) {
 	
 }
 
-//@PostMapping("/save-User")
-//public String RegisterUser(@ModelAttribute User user, BindingResult bindingresult, HttpServletRequest request) {
-//	userService.saveMyUser(user);
-//	request.setAttribute("mode", "GET_Home");
-//	return "welcomepage";
-//}
+
 }
